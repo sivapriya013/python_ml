@@ -1,0 +1,17 @@
+n = int(input("number:"))
+if (n%2!=0):
+    print("weird")
+n = int(input("number:"))
+if (n%2==0):
+    print(" not weird")
+
+
+
+n = int(input("number"))
+if (n%2==0):
+    print("not weird")
+
+elif n>=6 and n<=20:
+    print("not weird")
+
+
